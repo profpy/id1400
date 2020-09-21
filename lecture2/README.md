@@ -1,4 +1,4 @@
-# Terminal
+# Python Turtle
 
 In this lab you will learn:
 
