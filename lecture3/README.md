@@ -14,8 +14,8 @@ In this lab you will learn about:
 
 A variable is created the first time it is assigned a value.
 
-'''
+```
 university = "Kean"
 age = 100
 money = 19.99
-'''
+```
