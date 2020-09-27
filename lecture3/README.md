@@ -12,7 +12,7 @@ In this lab you will learn about:
 
 ## Assignment statement
 
-A variable is created the first time it is assigned a value.  To assign a variable to a value, we use the = sign.
+A variable is created the first time it is assigned a value.  To assign a variable to a value, we use the = sign.  Note: in Python, the = has a different meaning than in Math where it means equality.
 
 ```
 university = "Kean"
