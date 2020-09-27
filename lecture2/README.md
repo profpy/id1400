@@ -6,12 +6,20 @@ In this lab you will learn:
 
 # Introduction
 
-Let's practice using the Turtle.  Type the following commands:
+Let's practice using the Turtle.  Type the following command in the Terminal:
 
 ```
 $ python
 ``` 
 
+If all goes well, you should reach Python Interactive Mode
+
+```
+Python 3.7.6 (default, Jan 14 2020, 00:31:24) 
+[GCC 7.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 
+``` 
 
 
 ### forward
