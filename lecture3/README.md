@@ -1,8 +1,6 @@
 # Python Variables
 
-In this lab you will learn about:
-
-- Python Variables
+In this lab you will learn about variables in Python.
 
 ## Variables
 
