@@ -12,7 +12,7 @@ In this lab you will learn about:
 
 ## Assignment statement
 
-A variable is created the first time it is assigned a value.
+A variable is created the first time it is assigned a value.  To assign a variable to a value, we use the = sign.
 
 ```
 university = "Kean"
