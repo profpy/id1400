@@ -4,7 +4,15 @@ In this lab you will learn:
 
 - How to get your turtle through a maze!
 
-## Turtle Commands
+# Introduction
+
+Let's practice using the Turtle.  Type the following commands:
+
+```
+$ python
+``` 
+
+
 
 ### forward
 
