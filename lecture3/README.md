@@ -1,7 +1,5 @@
 # Python Output and Variables
 
-In this lab you will learn:
+In this lab you will learn about:
 
-- Python Output
 - Python Variables
-- Python Data Types
