@@ -30,6 +30,10 @@ Let's import the turtle module and show the turtle on our CS50 Lab Desktop
 >>> turtle.showturtle()
 ``` 
 
+If all goes well, your CS50 Lab Desktop should look like this:
+
+![Desktop](https://raw.githubusercontent.com/profpy/id1400/master/lecture2/turtle1.PNG)
+
 ### forward
 
 Move the turtle forward by the specified **distance**, in the direction the turtle is headed.
