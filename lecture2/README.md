@@ -21,6 +21,13 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 ``` 
 
+## import turtle
+
+Let's import the turtle module
+
+```
+>>> import turtle
+``` 
 
 ### forward
 
