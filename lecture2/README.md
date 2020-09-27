@@ -23,10 +23,11 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 ## import turtle
 
-Let's import the turtle module
+Let's import the turtle module and show the turtle on our CS50 Lab Desktop
 
 ```
 >>> import turtle
+>>> turtle.showturtle()
 ``` 
 
 ### forward
