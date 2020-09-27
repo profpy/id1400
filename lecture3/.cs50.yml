@@ -1,3 +1,4 @@
 lab50: 
   files: 
-    - !include variables.py
+    - !exclude "*"
+    - !include files
