@@ -12,6 +12,8 @@ day = "Monday"
 print(day)
 ```
 
+![Assignment1](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/assignment1.gif)
+
 {% next %}
 
 ## Problem 1
