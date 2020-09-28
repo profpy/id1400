@@ -47,3 +47,61 @@ university = "William Paterson"
 ```
 
 ![Variables3](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/variables3.gif)
+
+# Python Data Types
+
+Variables can store data of different types, and different types can do different things. Python has a number of different data types.
+
+## string
+
+string is a set of characters (letters, numbers, and/or special characters) enclosed by single or double quotation marks.
+
+``` 
+university = "Kean"
+title = "Professor"
+name = "Cheng"
+```
+
+## int
+
+int is a positive or negative whole number.
+
+``` 
+month = 9
+day = 27
+year = 2020
+```
+
+{% next %}
+
+## float
+
+float is a floating point or decimal number.
+
+```
+coffee = 1.99
+balance = 199.54
+tuition = 5002.23
+```
+
+{% next %}
+
+## boolean
+
+a boolean values is either True or False.
+
+hot = True
+summer = False
+
+{% next %}
+
+## type() function
+
+```
+hot = True
+type(hot)
+
+
+
+
+
