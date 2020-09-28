@@ -120,4 +120,23 @@ type(hot)
 
 {% next %}
 
+# More Output
+
+To join a string, int or float variable with text, you can use a , 
+
+Python adds a space to the output.
+
+```
+university = "Kean"
+print(university, "University")
+```
+
+You can also use + but all data types must be the same.  
+
+This is also known as string concatentation.  With string concatenation, Python does not add a space.
+
+```
+university = "Kean"
+print(university + " University")
+```
 
