@@ -10,13 +10,15 @@ In this lab you will learn about variables in Python.
 
 ## Assignment statement
 
-A variable is created the first time it is assigned a value.  To assign a variable to a value, we use the = sign.  
+A variable is created the first time it is assigned a value.  
 
-Let's test this idea out in Python Interactive Mode.  
+To assign a variable a value, use the =
 
-In the Terminal, type: python
+```
+university = "Kean"
+```
 
-![Terminal1](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/terminal2.gif)
+
 
 {% next %}
 
