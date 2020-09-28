@@ -22,7 +22,8 @@ print("Problem 1")
 
 ## Problem 2
 
+Assign the variable name to your name and combine it with the words, "Welcome to my program!".
+
 ```
 print("Problem 2")
-# Assign the variable name to your name and combine it with the words, "Welcome to my program!".
 ```
