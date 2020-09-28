@@ -83,6 +83,8 @@ Create variables for name, street address, city, state and zip.
 
 Print your name and mailing address as it would appear on the outside of an envelope. 
 
+![kean](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/keanaddress.gif)
+
 ```
 # Problem 6
 print("Problem 6")
