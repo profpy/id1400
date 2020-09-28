@@ -48,6 +48,8 @@ university = "William Paterson"
 
 ![Variables3](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/variables3.gif)
 
+{% next %}
+
 # Python Data Types
 
 Variables can store data of different types, and different types can do different things. Python has a number of different data types.
@@ -61,6 +63,8 @@ university = "Kean"
 title = "Professor"
 name = "Cheng"
 ```
+
+{% next %}
 
 ## int
 
@@ -101,7 +105,6 @@ summer = False
 hot = True
 type(hot)
 
-
-
+{% next %}
 
 
