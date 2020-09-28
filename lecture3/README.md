@@ -106,6 +106,7 @@ summer = False
 ```
 hot = True
 type(hot)
+```
 
 {% next %}
 
