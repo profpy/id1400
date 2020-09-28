@@ -64,6 +64,8 @@ title = "Professor"
 name = "Cheng"
 ```
 
+![Variables4](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/variables4.gif)
+
 {% next %}
 
 ## int
@@ -76,6 +78,8 @@ day = 27
 year = 2020
 ```
 
+![Variables5](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/variables5.gif)
+
 {% next %}
 
 ## float
@@ -87,6 +91,8 @@ coffee = 1.99
 balance = 199.54
 tuition = 5002.23
 ```
+
+![Variables6](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/variables6.gif)
 
 {% next %}
 
