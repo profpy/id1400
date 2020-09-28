@@ -105,6 +105,8 @@ hot = True
 summer = False
 ```
 
+![Variables7](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/variables7.gif)
+
 {% next %}
 
 ## type() function
@@ -113,6 +115,8 @@ summer = False
 hot = True
 type(hot)
 ```
+
+![Variables8](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/variables8.gif)
 
 {% next %}
 
