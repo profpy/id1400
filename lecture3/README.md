@@ -35,6 +35,8 @@ money = 19.99
 
 ![Variables2](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/variables2.gif)
 
+{% next %}
+
 ## The value of a variable can change
 
 Assigning a value to an existing variable replaces the previously stored value.
