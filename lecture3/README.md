@@ -23,3 +23,14 @@ Notice, Kean has quotations around it.  This is because it's a string.  More on 
 
 {% next %}
 
+## More variables
+
+An assignment statement stores a value in a variable.
+
+```
+university = "Kean"
+age = 100
+money = 19.99
+```
+
+![Variables2](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/variables2.gif)
