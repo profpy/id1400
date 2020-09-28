@@ -15,9 +15,10 @@ print(day)
 
 ## Problem 1
 
+Assign the variable name to your name.  Print your name.
+
 ```
 print("Problem 1")
-# Assign the variable name to your name.  Print your name.
 ```
 
 {% next %}
