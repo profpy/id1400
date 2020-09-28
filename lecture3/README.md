@@ -34,3 +34,14 @@ money = 19.99
 ```
 
 ![Variables2](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/variables2.gif)
+
+## The value of a variable can change
+
+Assigning a value to an existing variable replaces the previously stored value.
+
+```
+university = "Kean"
+university = "William Paterson"
+```
+
+![Variables3](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/variables3.gif)
