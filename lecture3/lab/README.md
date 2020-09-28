@@ -122,3 +122,36 @@ Assign new values to the variables you created in the previous problem.  Print a
 print("Problem 8")
 ```
 
+{% next %}
+
+## Problem 9
+
+Assign an emoji value for each one of the following variables
+
+happy
+sad
+laughing
+crying
+other
+
+See: https://unicode.org/emoji/charts/full-emoji-list.html
+
+Print a sentence that uses at least three of these variables.
+
+```
+# Problem 9
+print("Problem 9")
+```
+
+{% next %}
+
+## Problem 10
+
+Imagine you are sending a message to a friend.  Create at least five different variables and print a sentence containing these variables.
+
+Imagine you want to send a similar message to another friend.  Change the values of these variables and print the sentence again.
+
+```
+# Problem 10
+print("Problem 10")
+```
