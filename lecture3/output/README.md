@@ -19,3 +19,9 @@ Print "Hello World" using either single or double quotes.
 Print your name.
 
 ![Output2](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/output2.gif)
+
+## Example 3
+
+Print an emoji.  See https://unicode.org/emoji/charts/full-emoji-list.html
+
+![Output3](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/output3.gif)
