@@ -20,6 +20,8 @@ Print your name.
 
 ![Output2](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/output2.gif)
 
+{% next %}
+
 ## Example 3
 
 Print an emoji.  See https://unicode.org/emoji/charts/full-emoji-list.html
