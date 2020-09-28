@@ -156,5 +156,3 @@ print your name using a variable
 
 print your name using a variable and “hi”
 
-{% next %}
-
