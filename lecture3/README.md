@@ -140,3 +140,21 @@ university = "Kean"
 print(university + " University")
 ```
 
+# Example 1
+
+print your name
+
+{% next %}
+
+# Example 2
+
+print your name using a variable
+
+{% next %}
+
+# Example 3
+
+print your name using a variable and “hi”
+
+{% next %}
+
