@@ -3,3 +3,5 @@ lab50:
     - editor
     - terminal
     - readme
+  files:
+    - !include assignment3.py
