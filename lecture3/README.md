@@ -14,7 +14,7 @@ A variable is created the first time it is assigned a value.  To assign a variab
 
 Let's test this idea out in Python Interactive Mode.  In the CS50 Terminal, type: python
 
-![Terminal1](https://raw.githubusercontent.com/profpy/id1400/blob/master/lecture3/terminal1.gif)
+![Terminal1](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/terminal1.gif)
 
 ```
 university = "Kean"
