@@ -144,15 +144,21 @@ print(university + " University")
 
 print your name
 
+![Variables9](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/variables9.gif)
+
 {% next %}
 
 # Example 2
 
 print your name using a variable
 
+![Variables10](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/variables10.gif)
+
 {% next %}
 
 # Example 3
 
 print your name using a variable and “hi”
+
+![Variables11](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/variables11.gif)
 
