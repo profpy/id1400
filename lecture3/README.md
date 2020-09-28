@@ -16,6 +16,8 @@ Let's test this idea out in Python Interactive Mode.  In the CS50 Terminal, type
 
 ![Terminal1](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/terminal2.gif)
 
-Kean
+Create a variable named university.
+
+Assign the value "Kean" to university.
 
 ![Variables1](https://raw.githubusercontent.com/profpy/id1400/master/lecture3/variables1.gif)
