@@ -94,8 +94,10 @@ tuition = 5002.23
 
 a boolean values is either True or False.
 
+```
 hot = True
 summer = False
+```
 
 {% next %}
 
