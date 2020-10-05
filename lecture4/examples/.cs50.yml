@@ -1,5 +1,1 @@
-lab50:
-  window:
-    - editor
-    - terminal
-    - readme
+lab50: true
