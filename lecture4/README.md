@@ -1,5 +1,3 @@
-lab50:
-  window:
-    - editor
-    - terminal
-    - readme
+# Python Math
+
+Let's learn how to do math in Python!
